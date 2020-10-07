@@ -30,6 +30,6 @@ I'm a software engineer with a passion and attitude to learn new technology that
 
 <img src="https://github-readme-stats.vercel.app/api?username=dipbazz&count_private=true&show_icons=true&theme=merko" align="left" alt="Dipesh's GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz&theme=merko&layout=compact" alt="Top Langs"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz&theme=merko" alt="Top Langs"/>  
 
 <br />
