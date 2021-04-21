@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-I am a software engineer from Nepal who loves to do crazy experiments with code and accept new challenges. And also the sort of person who thinks out of the box to determine the solution.
+I am a software engineer from Nepal who loves to do crazy experiments with code and accept new challenges. I am also the sort of person who thinks out of the box to determine the solution.
 
 - 🌱 I’m currently a student at [Microverse](https://microverse.org/)
 - 🤔 I’m looking for new opportunities.
