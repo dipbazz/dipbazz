@@ -28,8 +28,9 @@ I am a software engineer from Nepal who loves to do crazy experiments with code 
 - 🤔 I’m looking for new opportunities.
 
 ---
+![Metrics](https://metrics.lecoq.io/dipbazz?template=classic&base.header=0&base.community=0&config.timezone=Asia%2FKatmandu&config.padding=10%25%2C%2013%25)
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz" alt="Top Langs"/>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=dipbazz&count_private=true&show_icons=true" alt="Dipesh's GitHub stats"/>
 
