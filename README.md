@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 
 I am a software engineer from Nepal who loves to do crazy experiments with code and accept new challenges. I am also the sort of person who thinks out of the box to determine the solution.
 
+In my free time, I love cooking 🍽️. So If I hadn't chosen my career in tech 👨‍💻, I would probably be a chef 👨‍🍳.
+
 - 🌱 I’m currently a student at [Microverse](https://microverse.org/)
-- 🤔 I’m looking for new opportunities.
+- 🤔 I’m looking for new opportunities to be a chef 👨‍🍳 in a tech 👨‍💻.
 
 ---
 ![Metrics](https://metrics.lecoq.io/dipbazz?template=classic&base.community=0&lines=1&pagespeed=1&pagespeed.url=dipbazz.me&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKatmandu&config.padding=10%25%2C%2013%25)
