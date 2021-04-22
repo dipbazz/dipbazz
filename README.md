@@ -26,6 +26,8 @@ I am a software engineer from Nepal who loves to do crazy experiments with code 
 
 In my free time, I love cooking 🍽️. So If I hadn't chosen my career in tech 👨‍💻, I would probably be a chef 👨‍🍳.
 
+![chef](https://media.giphy.com/media/ZeRYb8bhr6NbO6lac0/giphy-downsized.gif)
+
 - 🌱 I’m currently a student at [Microverse](https://microverse.org/)
 - 🤔 I’m looking for new opportunities to be a chef 👨‍🍳 in a tech 👨‍💻.
 
