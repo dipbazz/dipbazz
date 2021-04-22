@@ -30,5 +30,5 @@ I am a software engineer from Nepal who loves to do crazy experiments with code 
 ---
 ![Metrics](https://metrics.lecoq.io/dipbazz?template=classic&base.community=0&lines=1&pagespeed=1&pagespeed.url=dipbazz.me&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKatmandu&config.padding=10%25%2C%2013%25)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz" alt="Top Langs"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz&layout=compact&theme=gotham" alt="Top Langs"/>  
 
