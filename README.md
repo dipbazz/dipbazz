@@ -36,3 +36,4 @@ In my free time, I love cooking 🍽️. So If I hadn't chosen my career in tech
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz&layout=compact&theme=gotham" alt="Top Langs"/>  
 
+![Profile views](https://gpvc.arturio.dev/dipbazz) 
