@@ -28,7 +28,6 @@ In my free time, I love cooking 🍽️. So If I hadn't chosen my career in tech
 
 ![chef](https://media.giphy.com/media/ZeRYb8bhr6NbO6lac0/giphy-downsized.gif)
 
-- 🌱 I’m currently a student at [Microverse](https://microverse.org/)
 - 🤔 I’m looking for new opportunities to be a chef 👨‍🍳 in a tech 👨‍💻.
 
 ---
