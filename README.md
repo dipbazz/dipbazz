@@ -1,38 +1,27 @@
-<!--
-**dipbazz/dipbazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dipesh 👋
 
-Here are some ideas to get you started:
+Python/Django developer based in London, with 6 years building and supporting
+web applications – from a transit SaaS platform to election systems and
+digital media. MSc in Cyber Security (Distinction), so I write code with
+security in mind from the start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:** Python · Django · Django REST Framework · Wagtail ·
+PostgreSQL · Redis · Celery · React/TypeScript · Docker · GitHub Actions / GitLab CI
 
-<h3 align="center"> Hi! 👋 I'm Dipesh</h3>
+**Things I've done**
+- Cut API response times from 400–500ms to 80–100ms through query and serializer optimisation
+- Restored a crashed production platform within 2 hours during a live traffic spike
+- Fixed Postgres connection starvation with PgBouncer and removed N+1 queries
+- Built Refine dashboards featured as an early-adopter case study by the Refine team ([link](https://gist.github.com/dipbazz/bcfad0e3620f5fd7eaef7b4beb4d4d32))
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dipbazz/">LinkedIn</a> •
-  <a href="https://twitter.com/dipbazz">Twitter</a>
-</p>
+**Featured project**
+- [charity-wagtail-CMS](https://github.com/dipbazz/charity-wagtail-CMS) – Wagtail/Django
+  charity site, test-first with pytest, GitHub Actions CI, Dockerised
 
----
+**Writing**
+- [Running background tasks in Django with Celery](https://medium.com/design-bootcamp/running-background-tasks-in-django-with-celery-2204a11f4d59)
+- [How and when to use GenericForeignKey in Django](https://dipbazz.medium.com/how-and-when-to-use-genericforeignkey-in-django-ad88202be0f)
 
-I am a software engineer from Nepal who loves to do crazy experiments with code and accept new challenges. I am also the sort of person who thinks out of the box to determine the solution.
+📫 [LinkedIn](https://linkedin.com/in/dipbazz) · Open to Django roles in the UK
 
-In my free time, I love cooking 🍽️. So If I hadn't chosen my career in tech 👨‍💻, I would probably be a chef 👨‍🍳.
-
-![chef](https://media.giphy.com/media/ZeRYb8bhr6NbO6lac0/giphy-downsized.gif)
-
-- 🤔 I’m looking for new opportunities to be a chef 👨‍🍳 in a tech 👨‍💻.
-
----
-![Metrics](https://metrics.lecoq.io/dipbazz?template=classic&base.community=0&lines=1&pagespeed=1&pagespeed.url=dipbazz.me&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKatmandu&config.padding=10%25%2C%2013%25)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipbazz&layout=compact&theme=gotham" alt="Top Langs"/>  
-
-![Profile views](https://gpvc.arturio.dev/dipbazz) 
+*Outside code: I love cooking – if I weren't a developer, I'd probably be a chef.*
