@@ -23,8 +23,9 @@ PostgreSQL · Redis · Celery · React/TypeScript · Docker · GitHub Actions / 
 - Moved a transit SaaS API from token auth to JWT with role-based access control
 
 **Featured project**
-- [charity-wagtail-CMS](https://github.com/dipbazz/charity-wagtail-CMS) – free Wagtail/Django
-  CMS for Nepali and UK charities, live at [ccdce.org.np](https://ccdce.org.np). Code written
+- [Trayi](https://github.com/dipbazz/trayi) – free Wagtail/Django
+  CMS for Nepali and UK charities, first charity live at [ccdce.org.np](https://ccdce.org.np),
+  demo site is available at [Fictional Charity demo](https://16-192-118-94.sslip.io/). Code written
   with Claude Code; I review every PR, set the issue and PR standards, and run the AWS/Docker
   deployment.
 
