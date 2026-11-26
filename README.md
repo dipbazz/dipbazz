@@ -1,9 +1,9 @@
 # Hi, I'm Dipesh 👋
 
-Python/Django developer based in London, with 6 years
-building and supporting web applications. MSc in Cyber
-Security (Distinction), and now moving into application
-security and web penetration testing.
+Python/Django backend developer based in London, with 6 years
+building and supporting web applications. Security-minded, with an
+MSc in Cyber Security (Distinction). Now building Trayi, a free CMS
+for charities.
 
 **What I work with:** Python · Django · Django REST Framework · Wagtail ·
 PostgreSQL · Redis · Celery · React/TypeScript · Docker · GitHub Actions / GitLab CI
@@ -14,14 +14,6 @@ PostgreSQL · Redis · Celery · React/TypeScript · Docker · GitHub Actions / 
 - Fixed Postgres connection starvation with PgBouncer and removed N+1 queries
 - Built Refine dashboards featured as an early-adopter case study by the Refine team ([link](https://gist.github.com/dipbazz/bcfad0e3620f5fd7eaef7b4beb4d4d32))
 
-**Security**
-- Learning web application penetration testing (since Oct 2026): broken access
-  control / IDOR, OWASP Top 10:2025, PortSwigger Web Security Academy, HackTheBox,
-  TryHackMe. First bug bounty report: in progress.
-- MSc thesis: Crypto-Ransomware Detection Using Deep Q-Network (DQN) Based on File
-  Entropy (Distinction, 80%)
-- Moved a transit SaaS API from token auth to JWT with role-based access control
-
 **Featured project**
 - [Trayi](https://github.com/dipbazz/trayi) – free Wagtail/Django
   CMS for Nepali and UK charities, first charity live at [ccdce.org.np](https://ccdce.org.np),
@@ -29,10 +21,17 @@ PostgreSQL · Redis · Celery · React/TypeScript · Docker · GitHub Actions / 
   with Claude Code; I review every PR, set the issue and PR standards, and run the AWS/Docker
   deployment.
 
+**Security**
+- Learning web application penetration testing (since Oct 2026): broken access
+  control / IDOR, OWASP Top 10:2025, on PortSwigger Web Security Academy.
+- MSc thesis: Crypto-Ransomware Detection Using Deep Q-Network (DQN) Based on File
+  Entropy (Distinction, 80%)
+- Guided a transit SaaS API's move from token auth to JWT, with role-based access control
+
 **Writing**
 - [Running background tasks in Django with Celery](https://medium.com/design-bootcamp/running-background-tasks-in-django-with-celery-2204a11f4d59)
 - [How and when to use GenericForeignKey in Django](https://dipbazz.medium.com/how-and-when-to-use-genericforeignkey-in-django-ad88202be0f)
 
-📫 [LinkedIn](https://linkedin.com/in/dipbazz) · Open to AppSec, junior pentest and Django roles in the UK
+📫 [LinkedIn](https://linkedin.com/in/dipbazz) · Open to backend, full-stack and software engineer roles in the UK (Python/Django, React)
 
 *Outside code: I love cooking – if I weren't a developer, I'd probably be a chef.*
